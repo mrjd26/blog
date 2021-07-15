@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-	  <Widget />
+	  <Widget color='blue PROPS!' />
         </p>
       </header>
     </div>
