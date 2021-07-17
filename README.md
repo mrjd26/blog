@@ -1,3 +1,6 @@
+
+![keep it simple theme](Keep-it-simple-template.png)
+
 Literally writing my firstComponent in React...
 
 just getting import, export syntax down
